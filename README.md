@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack | backend`**
 
 Meu nome é Gabriel Rodrigues, sou estudande de analise e desenvolvimento de sistemas, sempre em busca de novas oportunidades, estou estudando ciencia da computação pelo cs50 
-"[meu linkedin]((https://www.linkedin.com/in/gabrielsoaresdev/))". 
+"[meu linkedin](https://www.linkedin.com/in/gabrielsoaresdev/)". 
 
 ---
 
